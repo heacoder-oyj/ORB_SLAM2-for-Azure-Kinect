@@ -1,5 +1,1 @@
-chmod +x build.sh
-./build.sh
-
-chmod +x build_ros.sh
-./build_ros.sh
+接收Azure Kinect相机的节点信息，并把图像转换成3D点云地图
